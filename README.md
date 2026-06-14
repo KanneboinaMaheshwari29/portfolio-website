@@ -50,16 +50,16 @@ portfolio-website/
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](images/homepage.png)
 
 ### Projects Section
-![Projects](screenshots/projects.png)
+![Projects](images/projects.png)
 
 ### Contact Section
-![Contact](screenshots/contact.png)
+![Contact](images/contact.png)
 
 ### About section
-![About](screenshots/about.png)
+![About](images/about.png)
 
 
 ## 📚 Learning Outcomes
